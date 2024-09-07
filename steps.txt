@@ -1,0 +1,6 @@
+Car Model
+-> car_name
+-> brand
+-> engine_capacity
+-> fuel_type
+
