@@ -4,3 +4,7 @@ Car Model
 -> engine_capacity
 -> fuel_type
 
+php artisan migrate
+
+Livewire installation
+-> composer require livewire/livewire
